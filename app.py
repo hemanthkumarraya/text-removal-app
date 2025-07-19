@@ -62,7 +62,7 @@ def main():
     st.markdown(" Use less memory files for the best results \n Upload an image with text to remove it while preserving the background (e.g., forests, mountains, water).")
 
     # File uploader
-    uploaded_file = st.file_uploader("Choose an image (JPG/PNG)", type=["jpg", "png"])
+    uploaded_file = st.file_uploader("Choose an image having Small Size Memory (JPG/PNG)", type=["jpg", "png"])
     
     if uploaded_file is not None:
         # Read image
