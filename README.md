@@ -78,7 +78,7 @@ Our solution leverages computer vision and machine learning techniques to achiev
    streamlit run app.py
    ```
 4. **Access Deployed App**:
-   - Visit `<your-username>-text-removal-app.streamlit.app`.
+   - Visit `https://clove-technologies-text-removal-app.streamlit.app/`.
    - Upload an image, adjust parameters, and download the result.
 
 ## Results
