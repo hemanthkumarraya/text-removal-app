@@ -59,7 +59,7 @@ def inpaint_text(image, mask, inpaint_radius, algorithm):
 
 def main():
     st.title("Text Removal from Images")
-    st.markdown(" Use less memory files for the best results \n Upload an image with text to remove it while preserving the background (e.g., forests, mountains, water).")
+    st.markdown(" Use Small Size files for the best results . \n Upload an image with text to remove it while preserving the background (e.g., forests, mountains, water).")
 
     # File uploader
     uploaded_file = st.file_uploader("Choose an image having Small Size Memory (JPG/PNG)", type=["jpg", "png"])
