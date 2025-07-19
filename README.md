@@ -66,7 +66,7 @@ Our solution leverages computer vision and machine learning techniques to achiev
 ## Setup Instructions
 1. **Clone Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/hemanthkumarraya/text-removal-app
    cd text-removal-app
    ```
 2. **Install Dependencies**:
